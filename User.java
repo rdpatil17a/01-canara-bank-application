@@ -2,10 +2,10 @@ class User{
 
   //learning git now
   
-  int i = 10;
-  int j = 20;
-  int k = 30;
-  String name = "Rahul Patil";
+  int a = 10;
+  int b = 20;
+  int c = 30;
+  String name = "Java";
 
   
 }
