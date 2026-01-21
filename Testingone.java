@@ -1,4 +1,4 @@
-public class Registration{
+public class Testingone{
 
 	private Integer registrationId;
 	private String registeredName;
