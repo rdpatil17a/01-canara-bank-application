@@ -8,6 +8,9 @@ class User{
   int d = 40;
   int e = 50;
   String name = "Java";
+  
+  public void m3(){
+	  String state = "Maharashtra";
 
   
 }
