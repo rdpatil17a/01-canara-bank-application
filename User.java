@@ -11,6 +11,7 @@ class User{
   
   public void m3(){
 	  String state = "Maharashtra";
+  }
 
   public void m1(){
     String hometown = "Shirpur";
