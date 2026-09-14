@@ -1,7 +1,12 @@
 
+
 This is second statement.
 
 This is my first sentence.
 
 int b = 20;
+
+
+
+int a =10;
 
