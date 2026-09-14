@@ -1,0 +1,1 @@
+This is 1st statement in file f2.
